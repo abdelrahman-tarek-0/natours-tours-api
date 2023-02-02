@@ -1,0 +1,6 @@
+.env
+~
+dev-data
+start server.bat
+
+node_modules
